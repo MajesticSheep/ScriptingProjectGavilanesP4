@@ -974,7 +974,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5600369423242484972, guid: 1170f0e0039b0244ebb7068c2f7e55a8, type: 3}
       propertyPath: bulletSpeed
-      value: 300
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 5627643392774478251, guid: 1170f0e0039b0244ebb7068c2f7e55a8, type: 3}
       propertyPath: m_Mass
